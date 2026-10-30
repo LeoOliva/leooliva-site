@@ -4,7 +4,7 @@ Sitio estático bilingüe, sin dependencias de ejecución ni servicios externos.
 
 ## Configuración
 
-Edita el objeto `contact` al inicio de `app.js` para actualizar correo y perfiles. Los enlaces iniciales provienen del diseño de Stitch; **verifícalos antes de publicar**, en particular Instagram, que apunta a la página general. Los textos se encuentran en `index.html` (inglés) y en el objeto `es` de `app.js` (español).
+Edita el objeto `contact` al inicio de `app.js` para actualizar correo y perfiles. Los textos se encuentran en `index.html` (inglés) y en el objeto `es` de `app.js` (español).
 
 ## Docker
 
